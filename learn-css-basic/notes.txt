@@ -1,0 +1,22 @@
+- selector
+  - element selector
+  - id selector
+  - class selector
+  - universal selector
+  - grouping selector
+
+- how to
+  - internal css
+  - external css
+  - inline css
+
+- comments
+  - single line comment
+
+
+- colors
+  - colors
+    - color name
+    - background color
+    - text color
+    - border color      

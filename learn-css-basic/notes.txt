@@ -20,3 +20,33 @@
     - background color
     - text color
     - border color      
+    - color value
+
+  - rgb
+    - rgb
+    - shade of gray
+    - rgba
+
+  - hex
+    - hex
+    - shade of gray
+    - 3digit
+
+  - hsl
+    - hsl
+    - saturation
+    - lightness
+
+- background
+  - background color
+    - background color
+    - opacity
+    - transparency
+
+  - background image
+    - background image
+    - background image at paragraph
+
+  - background repeat
+    - default background repeat
+    - repeat-x      

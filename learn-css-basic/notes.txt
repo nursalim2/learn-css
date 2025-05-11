@@ -49,4 +49,84 @@
 
   - background repeat
     - default background repeat
-    - repeat-x      
+    - repeat-x
+    - no repeat
+    - background position
+
+  - background attachment
+    - background attachment fixed
+    - background attachment scroll
+
+  - background shorthand
+    - shorthand
+
+- borders
+  - borders
+    - border style
+
+  - border width
+    - border width
+    - specific width side
+
+  - border color
+    - borde color
+    - specific side color
+    - hex values
+    - rgb value
+    - hsl value
+
+  - border sides
+    - different border style
+
+  - shorthand
+    - shorthand
+    - left border
+    - bottom border
+
+  - rounded bourder
+    - rounded border
+
+- margins
+  - margin
+  - margin shorthand
+  - auto
+  - inherit
+  - margin collapse
+
+- paddings
+  - padding
+  - shorthand
+  - padding with width
+  - border box
+
+- height and width
+  - height and width
+  - max width
+
+- box model
+  - box model
+  - calculate total width
+
+- outline
+  - outline style
+  - outline width
+  - outline color
+  - outline shorthand
+  - outline offset
+
+- text
+  - text color
+  - text align
+  - text align justify
+  - text align last
+  - text direction
+  - vertical align
+  - text decoration line
+  - text decoration color
+  - text decoration style
+  - text decoration thickness
+  - text decoration shorthand
+  - text decoration none
+
+
+

@@ -162,7 +162,45 @@
 - links
   - styling link
   - text decoration
-  - background color  
+  - background color
+
+- list 
+  - list style type
+  - list style image
+  - list style position
+  - remove default setting
+  - list style shorthand
+  - list style with color
+  - bordered list
+
+- tables
+  - table border
+  - full width table
+  - table border collapse
+  - table size
+  - table horizontal align
+  - table vertical align
+  - table padding
+  - table divider
+  - table hover
+  - table responsive
+  - table caption
+
+- display
+  - override default display
+  - display none
+  - visibility hidden
+  - image box
+
+- max width
+  - max width
+
+- position
+  - static
+  - relative
+  - fixed
+  - absolute
+  - sticky            
 
 
 

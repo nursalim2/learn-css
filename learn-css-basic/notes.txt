@@ -127,6 +127,43 @@
   - text decoration thickness
   - text decoration shorthand
   - text decoration none
+  - text transform
+  - text indent
+  - letter spacing
+  - line height
+  - word spacing
+  - white space
+  - text shadow
+  - text shadow color effect
+  - text shadow blur
+  - text shadow white
+  - text shadow red neon glow
+
+- fonts
+  - font family
+  - font web safe
+  - font style
+  - font size
+  - font size with em
+  - responsive font size
+  - font google
+  - multiple font google
+  - styling google font
+  - google font effect
+  - google font multiple effect
+  - font pairing
+  - font shorthand
+
+- icons
+  - font awesome icon
+  - bootstrap icon
+  - google icon
+
+- links
+  - styling link
+  - text decoration
+  - background color  
+
 
 
 

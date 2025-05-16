@@ -200,7 +200,51 @@
   - relative
   - fixed
   - absolute
-  - sticky            
+  - sticky
+
+- z-index
+  - z-index
+
+- overflow
+  - visible
+  - hidden
+  - scroll
+  - overflow x and overflow y
+
+- float
+  - float right
+  - float left
+  - float next to the other
+  - clear
+  - clearfix
+  - clearfix modern
+  - float example
+  - equal hight box
+  - flex box
+
+- inline-block
+  - inline block
+  - horizontal navigation link
+
+- align
+  - center element
+  - center text
+  - center image
+  - align with position
+  - align with float
+  - center vertically
+  - center both vertical and horizontal
+  - center vertical line height
+  - center position with transform
+  - center position with flex box
+
+- combinators
+  - descendant selector
+  - child selector
+  - adjacent sibling selector
+  - general sibling selector  
+
+                
 
 
 

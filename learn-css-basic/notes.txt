@@ -242,7 +242,50 @@
   - descendant selector
   - child selector
   - adjacent sibling selector
-  - general sibling selector  
+  - general sibling selector
+
+- pseudo classes
+  - anchor pseudo class
+  - hover
+  - hover tooltip
+  - first-child
+  - focus
+
+- pseudo elements
+  - first-line      
+  - first-letter
+  - multiple pseudo elements
+  - before
+  - after
+  - marker
+
+- opacity
+  - opacity
+  - opacity hover
+  - transparency box
+
+- navigation bar 
+  - navbar
+  - vertical navbar
+  - vertical navbar hover
+  - vertical navbar active
+  - vertical navbar border
+  - horizontal navbar
+  - horizontal navbar float    
+  - horizontal navbar example
+  - horizontal navbar active
+  - horizontal navbar align right
+  - horizontal navbar border divider
+  - fixed top horizontal navbar
+  - gray horizontal navbar
+  - sticky horizontal navbar
+  - responsive topnav
+  - responsive sidenav
+
+- drop down
+  - drop down
+  - drop down menu
+  - align drop down  
 
                 
 

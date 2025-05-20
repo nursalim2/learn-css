@@ -285,7 +285,86 @@
 - drop down
   - drop down
   - drop down menu
-  - align drop down  
+  - align drop down
+  - drop down image
+  - drop down menu
+
+- image gallery
+  - image gallery
+  - responsive image gallery
+
+- image sprite
+  - image sprite
+  - navigation list
+  - navigation list hover
+
+- attr selectors
+  - target
+  - target value
+  - title containing value
+  - class specific value (include - )  
+  - class start with value
+  - class end with value
+  - class containing value
+  - styling form
+
+- forms
+  - styling input field
+  - padded input field
+  - bordered input
+  - border bottom input
+  - colored input
+  - focuses input
+  - input with image
+  - animated search input
+  - styling text area
+  - styling select menu
+  - styling input button
+  - responsive form
+
+- counters
+  - counters
+  - nested counter
+
+- website layout
+  - header
+  - navbar
+  - content
+  - footer
+  - responsive web layout
+
+- units
+  - absolute length
+    - cm
+    - mm
+    - in
+    - px
+    - pt
+    - pc (picas)        
+
+  - relative
+    - em
+    - ex
+    - ch 
+    - rem
+    - vw
+    - vh
+    - % (percent)
+
+- specificity
+  - specificity
+
+- !important
+  - important
+
+- math function
+  - calc
+  - max
+  - min    
+
+
+
+
 
                 
 
